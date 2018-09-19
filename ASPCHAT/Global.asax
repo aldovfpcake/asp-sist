@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="ASPCHAT.Global" Language="C#" %>
+<%@ Application Codebehind="Global.asax.cs" Inherits="SimpleChat.Global" %>
