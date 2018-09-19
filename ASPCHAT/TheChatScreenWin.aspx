@@ -20,6 +20,7 @@
 	<body onload="Down()" MS_POSITIONING="GridLayout" topmargin="4" title="Chat Screen" bottommargin="4"
 		leftmargin="4" rightmargin="4" bgcolor="#ffffcc">
 		<form id="Form1" method="post" runat="server">
-		</form>
+		<p>Registrando cambios </p>
+        </form>
 	</body>
 </HTML>
